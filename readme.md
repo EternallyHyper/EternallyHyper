@@ -14,5 +14,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EternallyHyper/EternallyHyper/refs/heads/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EternallyHyper/EternallyHyper/output/snake.svg" alt="Snake animation" />
 <br>
