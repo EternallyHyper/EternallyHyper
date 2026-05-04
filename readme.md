@@ -1,4 +1,4 @@
-<h1 align="center">What's up! I'm EternallyHyper!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
+<h1 align="center">What's up! I'm InfiniteVoid!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,&perline=5"/>
@@ -14,5 +14,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EternallyHyper/EternallyHyper/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/coolqiqi1781/coolqiqi1781/output/snake.svg" alt="Snake animation" />
 <br>
